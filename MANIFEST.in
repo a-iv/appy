@@ -1,0 +1,3 @@
+include *.xml
+include *.pyt
+exclude *.orig *.pyc
